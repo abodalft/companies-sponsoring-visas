@@ -1,9 +1,9 @@
-# Companies that provide Visa Sponsorships
-
-
+# الشركات التي تقدم رعاية التأشيرات
+وعبود الفتى الضائع
+ت
 The aim of the list is to gather data on companies that sponsor employees from other countries.
 
-It's well known that bigger companies do this but there isn't a lot of data on smaller to medium sized companies, so the goal is to focus on those here.
+من المعروف أن الشركات الكبرى تفعل ذلك ولكن لا يوجد الكثير من البيانات حول الشركات الصغيرة والمتوسطة الحجم ، لذا فإن الهدف هو التركيز على تلك الشركات هنا.
 
 To add a company, either [create an issue](https://github.com/shubheksha/companies-sponsoring-visas/issues/new) with the relevant details or send a PR adhering to the format specified and try to provide as much information as possible.
 
@@ -19,8 +19,8 @@ I wrote a blog post about [how I moved from India to Europe](https://shubheksha.
 | Spotify| Stockholm, SE <br> London, UK| Engineering| https://www.spotifyjobs.com/| ✅|
 | Klarna | Stockholm, SE <br> Berlin, DE | Engineering | https://www.klarna.com/careers/ | ✅ |
 | Zalando| Berlin, DE <br> Dublin, IE <br> Helsinki, FI <br> Dortmund, NRW| Engineering| https://jobs.zalando.com/en/jobs/| ✅|
-| Deliveryhero| Berlin, DE| Engineering| https://careers.deliveryhero.com/global/en| ✅|
-| Datadog| Paris, FR <br> London, UK | Engineering| https://www.datadoghq.com/careers/| N/A|
+| Deliveryhero| Berlin, DE| Engineering| https://careers.deliveryhero.com/global/en| 
+| داتادوغ | Paris، FR <br> London ، UK | الهندسة | https: //www.datadoghq.com/careers/ | غير متاح |
 | Revolut| Berlin, DE <br> Krakow, PL | Engineering| https://www.revolut.com/en-US/careers| N/A|
 | Intercom| London, UK <br>Dublin, IE| Design, Engineering, Product| https://www.intercom.com/careers| ✅|
 | Diet Doctor | Stockholm, SE | Various | https://careers.dietdoctor.com/ | N/A |      
